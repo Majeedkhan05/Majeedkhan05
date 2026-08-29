@@ -23,6 +23,30 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/majeed-khan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:majeedkhan2005.cc@gmail.com)
 
+
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="media/gemini-nine.webp" alt="Google Gemini: recognising 9 outstanding student ambassadors, Majeed Khan listed first" width="100%">
+<br><sub><b>Google Gemini</b> — the nine flown to I/O. First name on the list.</sub>
+</td>
+<td width="50%" align="center">
+<img src="media/feature-google-official.webp" alt="Majeed Khan featured on Google's official account" width="100%">
+<br><sub><b>@Google</b> · 42.3M followers — <i>"you are AI native"</i></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<img src="media/interview-setup.webp" alt="Majeed Khan interviewing Robby Stein at Google" width="100%">
+<br><sub>Interviewing <b>Robby Stein</b>, VP of Product, Google Search</sub>
+</td>
+<td width="50%" align="center">
+<img src="media/google-bridge.webp" alt="Majeed Khan at Google headquarters, Mountain View" width="100%">
+<br><sub><b>Googleplex</b>, Mountain View — May 2026</sub>
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
