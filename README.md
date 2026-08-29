@@ -17,7 +17,7 @@
 [![Google I/O 2026](https://img.shields.io/badge/Google_I%2FO_2026-1_of_9_delegates_from_India-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/Majeedkhan05)
 [![GenAI Exchange](https://img.shields.io/badge/GenAI_Exchange-%231_in_India_of_208%2C000%2B-34A853?style=for-the-badge&logo=googlecloud&logoColor=white)](https://github.com/Majeedkhan05)
 
-[![Website](https://img.shields.io/badge/%E2%86%92_majeedkhan.dev-live_site-0A8F7D?style=for-the-badge)](https://temporary-swift-nitrogen-azy6l7q.vercel.app)
+[![Website](https://img.shields.io/badge/%E2%86%92_majeedkhan.vercel.app-live_site-0A8F7D?style=for-the-badge)](https://majeedkhan.vercel.app)
 
 [![Medium](https://img.shields.io/badge/Read_the_essay-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@majeedkhan2005.cc/inside-google-i-o-2026-what-changed-my-mind-about-the-future-of-ai-7d818d1c8960)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/majeed-khan)
@@ -51,13 +51,13 @@
 
 ---
 
-## → [The site](https://temporary-swift-nitrogen-azy6l7q.vercel.app)
+## → [The site](https://majeedkhan.vercel.app)
 
 An orbital hero rendered in WebGL, a **voxel world** you walk around to get to know
 me, the Robby Stein interview, and every project with its numbers. Built by hand —
 no framework, no build step, three.js vendored locally.
 
-[**Open it →**](https://temporary-swift-nitrogen-azy6l7q.vercel.app) · [source](https://github.com/Majeedkhan05/majeed-portfolio)
+[**Open it →**](https://majeedkhan.vercel.app) · [source](https://github.com/Majeedkhan05/majeed-portfolio)
 
 ---
 
@@ -146,7 +146,7 @@ Focus        agent orchestration · retrieval · latency · privacy-preserving A
 
 **[majeedkhan2005.cc@gmail.com](mailto:majeedkhan2005.cc@gmail.com)**
 
-[Website](https://temporary-swift-nitrogen-azy6l7q.vercel.app) · [LinkedIn](https://linkedin.com/in/majeed-khan) · [Medium](https://medium.com/@majeedkhan2005.cc)
+[Website](https://majeedkhan.vercel.app) · [LinkedIn](https://linkedin.com/in/majeed-khan) · [Medium](https://medium.com/@majeedkhan2005.cc)
 
 <sub>Hyderabad, India · open to remote worldwide</sub>
 
