@@ -20,7 +20,7 @@
 [![Website](https://img.shields.io/badge/%E2%86%92_majeedkhan.vercel.app-live_site-0A8F7D?style=for-the-badge)](https://majeedkhan.vercel.app)
 
 [![Medium](https://img.shields.io/badge/Read_the_essay-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@majeedkhan2005.cc/inside-google-i-o-2026-what-changed-my-mind-about-the-future-of-ai-7d818d1c8960)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/majeed-khan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majeed-khan-75ba72311/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:majeedkhan2005.cc@gmail.com)
 
 
@@ -146,7 +146,7 @@ Focus        agent orchestration · retrieval · latency · privacy-preserving A
 
 **[majeedkhan2005.cc@gmail.com](mailto:majeedkhan2005.cc@gmail.com)**
 
-[Website](https://majeedkhan.vercel.app) · [LinkedIn](https://linkedin.com/in/majeed-khan) · [Medium](https://medium.com/@majeedkhan2005.cc)
+[Website](https://majeedkhan.vercel.app) · [LinkedIn](https://www.linkedin.com/in/majeed-khan-75ba72311/) · [Medium](https://medium.com/@majeedkhan2005.cc)
 
 <sub>Hyderabad, India · open to remote worldwide</sub>
 
