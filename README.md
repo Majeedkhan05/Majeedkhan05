@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Majeedkhan05/Majeedkhan05/main/assets/hero.svg" alt="Mohammed Majeed Khan — AI engineer. Agentic systems, retrieval, on-device inference. Google I/O 2026 delegate, rank #1 in India of 208,000+, 58/58 verified." width="100%" />
+
+</div>
+
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2600&pause=900&color=0A8F7D&center=true&vCenter=true&width=780&lines=AI+engineer.+Agentic+systems.;Retrieval+that+cites+its+sources.;Models+small+enough+to+run+on+device.;Google+I%2FO+2026+%E2%80%94+1+of+9+from+India." alt="Typing banner" />
 
 <img src="https://komarev.com/ghpvc/?username=Majeedkhan05&label=Profile%20views&color=0a8f7d&style=flat-square" alt="views" />
