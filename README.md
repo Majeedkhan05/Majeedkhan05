@@ -1,5 +1,15 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2600&pause=900&color=0A8F7D&center=true&vCenter=true&width=780&lines=AI+engineer.+Agentic+systems.;Retrieval+that+cites+its+sources.;Models+small+enough+to+run+on+device.;Google+I%2FO+2026+%E2%80%94+1+of+9+from+India." alt="Typing banner" />
+
+<img src="https://komarev.com/ghpvc/?username=Majeedkhan05&label=Profile%20views&color=0a8f7d&style=flat-square" alt="views" />
+<img src="https://img.shields.io/github/followers/Majeedkhan05?label=Followers&style=flat-square&color=0a8f7d" alt="followers" />
+<img src="https://img.shields.io/github/stars/Majeedkhan05?label=Stars&style=flat-square&color=0a8f7d" alt="stars" />
+
+</div>
+
+<div align="center">
+
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
@@ -75,6 +85,30 @@ data already lives.
 
 ---
 
+---
+
+## Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,ts,js,pytorch,fastapi,docker,gcp,postgres,supabase,linux,git,github,vscode,vercel,threejs,tailwind&perline=9" alt="stack" />
+
+</div>
+
+<div align="center">
+
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![LoRA](https://img.shields.io/badge/LoRA_Fine--tuning-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0A8F7D?style=for-the-badge)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+</div>
+
 ## What I've shipped
 
 ### [True North](https://github.com/Majeedkhan05/true-north) · bilingual AI back-office for Canadian insurance
@@ -128,6 +162,37 @@ Focus        agent orchestration · retrieval · latency · privacy-preserving A
 ```
 
 ---
+
+---
+
+## The numbers
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Majeedkhan05&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0a8f7d&icon_color=0a8f7d&text_color=57606a&bg_color=00000000" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majeedkhan05&layout=compact&langs_count=8&hide_border=true&title_color=0a8f7d&text_color=57606a&bg_color=00000000" alt="languages" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Majeedkhan05&hide_border=true&ring=0a8f7d&fire=a8621a&currStreakLabel=0a8f7d&background=00000000" alt="streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Majeedkhan05&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=6" alt="trophies" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Majeedkhan05&bg_color=00000000&color=0a8f7d&line=0a8f7d&point=a8621a&area=true&hide_border=true" alt="activity graph" width="98%" />
+
+</div>
+
+### Contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Majeedkhan05/Majeedkhan05/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Majeedkhan05/Majeedkhan05/output/snake-light.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Majeedkhan05/Majeedkhan05/output/snake.gif" width="98%" />
+</picture>
+
+<sub>Regenerated every 12 hours by GitHub Actions.</sub>
+
+</div>
 
 ## Writing
 
