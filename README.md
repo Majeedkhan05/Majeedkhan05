@@ -167,6 +167,15 @@ on one machine. No cloud, no egress, no API bill.
 
 > Ships with a formal research manuscript — *unpublished preprint, prepared for ICLR*.
 
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Majeedkhan05/Majeedkhan05/main/assets/retrieval.svg" alt="Indus Valley AI retrieval: a query entering embedding space, nearest neighbours illuminating with similarity scores, reranked chunks, and a citation-grounded answer at 187ms" width="100%" />
+
+<sub>A query entering the embedding space. Nearest neighbours illuminate with their similarity scores, chunks rerank, and the answer assembles with citations — end to end in 187ms, on device, with nothing leaving the machine.</sub>
+
+</div>
+
 ### Paper Discovery Engine · multimodal RAG over dense academic PDFs
 
 Figures and tables are where findings actually live, and most retrieval throws them
