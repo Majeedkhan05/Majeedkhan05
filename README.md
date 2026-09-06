@@ -6,6 +6,12 @@
 
 <div align="center">
 
+**AI Student Leader** &nbsp;·&nbsp; **Google I/O 2026 Delegate** &nbsp;·&nbsp; **Founder, AI Hub** &nbsp;·&nbsp; **Generative AI Builder**
+
+</div>
+
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2600&pause=900&color=0A8F7D&center=true&vCenter=true&width=780&lines=AI+engineer.+Agentic+systems.;Retrieval+that+cites+its+sources.;Models+small+enough+to+run+on+device.;Google+I%2FO+2026+%E2%80%94+1+of+9+from+India." alt="Typing banner" />
 
 <img src="https://komarev.com/ghpvc/?username=Majeedkhan05&label=Profile%20views&color=0a8f7d&style=flat-square" alt="views" />
@@ -198,6 +204,38 @@ Focus        agent orchestration · retrieval · latency · privacy-preserving A
 ---
 
 ---
+
+---
+
+## Founder & President — AI Hub, Mahindra University
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+I started AI Hub because there was no place on campus to build AI with other
+people who were serious about it. It is now the largest technical community
+at the university.
+
+What I actually do there: run the technical roadmap, review other students'
+architectures, and push people past tutorial projects into things that deploy
+and get used.
+
+</td>
+<td width="38%" valign="top">
+
+| | |
+|---|---|
+| **100+** | active members |
+| **1,000+** | hackathon participants |
+| **1,000+** | developers taught Vertex AI, Gemini and multimodal RAG |
+| **2025 →** | founded and still leading |
+
+</td>
+</tr>
+</table>
+
+<sub>Instagram: <b>@aihub.mu</b></sub>
 
 ## The numbers
 
