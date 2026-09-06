@@ -127,6 +127,25 @@ billed, audited.
 
 > Runs fully offline in `DEMO_MODE`. Clone it and the suite passes on your machine.
 
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Majeedkhan05/Majeedkhan05/main/assets/pipeline.svg" alt="True North document pipeline: email, OCR, Gemini extraction, per-field confidence gate branching to auto-approve or human review, bilingual draft" width="100%" />
+
+<sub>A document moving through the real pipeline. Green clears the confidence threshold and auto-approves; amber falls below it and routes to a human.</sub>
+
+</div>
+
+### Don't take the numbers on faith
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Majeedkhan05/Majeedkhan05/main/assets/tests.svg" alt="Terminal running python test_flow.py, 58 of 58 checks passing offline" width="100%" />
+
+<sub>Clone it and run <code>python test_flow.py</code>. It passes offline, with Gemini and Stripe stubbed.</sub>
+
+</div>
+
 ### [Indus Valley AI](https://github.com/Majeedkhan05/indus-valley-ai) · private multimodal RAG
 
 A research assistant for a **4,000-year-old undeciphered script**, running entirely
