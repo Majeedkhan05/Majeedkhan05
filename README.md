@@ -1,5 +1,11 @@
 <div align="center">
 
+<a href="https://majeedkhan.vercel.app"><img src="https://raw.githubusercontent.com/Majeedkhan05/Majeedkhan05/main/assets/universe.svg" alt="The Majeed Universe — Mohammed Majeed Khan, AI engineer. Animated night skyline with an emblem, searchlights and robots walking the rooftops." width="100%" /></a>
+
+</div>
+
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/Majeedkhan05/Majeedkhan05/main/assets/hero.svg" alt="Mohammed Majeed Khan — AI engineer. Agentic systems, retrieval, on-device inference. Google I/O 2026 delegate, rank #1 in India of 208,000+, 58/58 verified." width="100%" />
 
 </div>
